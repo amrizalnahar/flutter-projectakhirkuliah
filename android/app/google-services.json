@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805384395185",
+    "project_id": "mampirfoto-38075",
+    "storage_bucket": "mampirfoto-38075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805384395185:android:45efcd9b42267fc5940590",
+        "android_client_info": {
+          "package_name": "com.example.mampir_foto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805384395185-u4n5p68kro6qg5oi085hjb115mjrb00g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgZyLl1MGzIv9_Kt2fu6qJCGY2jz5yY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805384395185-u4n5p68kro6qg5oi085hjb115mjrb00g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
